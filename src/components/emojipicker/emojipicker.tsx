@@ -2,7 +2,7 @@ import { Component, Prop } from '@stencil/core';
 
 @Component({
   tag: 'emoji-picker',
-  styleUrl: 'emojipicker.css',
+  styleUrl: 'emojipicker.scss',
   shadow: true
 })
 export class Emojipicker {
