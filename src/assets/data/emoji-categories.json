@@ -1,0 +1,10 @@
+[
+  { "id": "symbols", "emoji": "💯" },
+  { "id": "people", "emoji": "😀" },
+  { "id": "animals_and_nature", "emoji": "🐶" },
+  { "id": "food_and_drink", "emoji": "🍏" },
+  { "id": "activity", "emoji": "⚽" },
+  { "id": "travel_and_places", "emoji": "🚗" },
+  { "id": "objects", "emoji": "⌚" },
+  { "id": "flags", "emoji": "🇦🇫" }
+]
